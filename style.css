@@ -1,0 +1,54 @@
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: beige;
+}
+
+.acapra-logo {
+    margin-left: 30px;
+}
+
+button {
+    padding: 20px 20px 20px 20px;
+    margin: 10px 10px 10px 10px;
+}
+
+.logo {
+    margin-left: 40%;
+    width: 300px;
+}
+
+.instrucao {
+    margin-left: 40%;
+}
+
+.botao-form {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.animais {
+    text-align: center;
+}
+
+.formulario {
+    text-align: center;
+}
+
+.estatisticas {
+    text-align: center;
+}
+
+.concientizacao {
+    text-align: center;
+}
+
+footer {
+    background-color: beige;
+}
+
+.rodape {
+    margin: 20px 20px 20px 20px;
+}
